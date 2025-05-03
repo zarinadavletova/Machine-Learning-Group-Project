@@ -17,7 +17,7 @@ This project uses real-world data to predict whether education-related projects 
 - **`data cleaning.ipynb`**
   - Handles missing values, incorrect formats, and feature renaming.
   - Prepares the raw data for further processing.
-  - Merges data files from  to prepare for feature matrix 
+  - Merges data files from 2014 KDD Cup.(https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/data) to prepare for feature matrix 
 
 ---
 ### 📁 Python Scripts
