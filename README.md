@@ -18,10 +18,6 @@ This project uses real-world data to predict whether education-related projects 
   - Handles missing values, incorrect formats, and feature renaming.
   - Prepares the raw data for further processing.
 
-- **`ML_feature_matrix.ipynb`**
-  - Merges datasets and performs extensive feature engineering.
-  - Generates the initial feature matrix used in modeling.
-
 ---
 ### 📁 Python Scripts
 
@@ -72,5 +68,7 @@ This project uses real-world data to predict whether education-related projects 
  - LabelEncoder, StandardScaler
  - LogisticRegression
  - RandomForestClassifier
+ - VarianceThreshold
+ - os
 
 
