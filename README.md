@@ -68,4 +68,9 @@ This project uses real-world data to predict whether education-related projects 
  - ColumnTransformer
  - classification_report, confusion_matrix, roc_curve, precision_recall_curve, auc
  - GridSearchCV, StratifiedKFold
+ - train_test_split
+ - LabelEncoder, StandardScaler
+ - LogisticRegression
+ - RandomForestClassifier
+
 
