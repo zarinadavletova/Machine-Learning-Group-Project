@@ -56,6 +56,7 @@ This project uses real-world data to predict whether education-related projects 
 ---
 ## Requirements
 
-import pandas as pd
-import numpy as np
+ -pandas
+ -numpy 
+ 
 
