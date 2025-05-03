@@ -56,7 +56,16 @@ This project uses real-world data to predict whether education-related projects 
 ---
 ## Requirements
 
- -pandas
- -numpy 
- 
+ - pandas
+ - numpy 
+ - matplotlib.pyplot 
+ - seaborn 
+ - RandomForestClassifier
+ - XGBClassifier
+ - SimpleImputer
+ - Pipeline
+ - OneHotEncoder, StandardScaler
+ - ColumnTransformer
+ - classification_report, confusion_matrix, roc_curve, precision_recall_curve, auc
+ - GridSearchCV, StratifiedKFold
 
